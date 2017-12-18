@@ -5,6 +5,9 @@ int a;
 scanf("%d/n",&a);
 if(a>=0)
 printf("positive");
-else
+elseif(a>=0)
 printf("negative");
+else
+printf("zero");
+return 0;
 }
