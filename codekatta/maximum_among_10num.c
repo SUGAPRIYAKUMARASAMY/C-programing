@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void)
+int main()
 {
 	int a[100],i,max=0;
 	for(i=0;i<10;i++)
