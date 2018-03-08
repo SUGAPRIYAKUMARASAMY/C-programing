@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-int main(void)
+int main()
 {
     char s[200];
     int count = 0, i,n,ans;
